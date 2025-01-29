@@ -1,0 +1,5 @@
+<map id="RetroSound API" name="RetroSound API">
+<area shape="rect" id="Node000002" href="$group__maug__retroflt.html" title="Abstraction layer header for retro systems." alt="" coords="5,5,105,31"/>
+<area shape="rect" id="Node000001" title="Abstraction layer header for sound on retro systems." alt="" coords="153,5,267,31"/>
+<area shape="rect" id="Node000003" href="$group__maug__retrosnd__flags.html" title="Flags indicating global state for the RETROSND_STATE::flags field." alt="" coords="315,5,473,31"/>
+</map>

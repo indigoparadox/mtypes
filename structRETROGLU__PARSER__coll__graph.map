@@ -1,0 +1,14 @@
+<map id="RETROGLU_PARSER" name="RETROGLU_PARSER">
+<area shape="rect" id="Node000001" title="As retroglu_parse_obj_c() parses OBJ data, it populates this struct with object information." alt="" coords="276,198,430,223"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="447,203,456,210,448,218,431,221,430,216,446,213,451,211,444,207"/>
+<area shape="rect" id="Node000002" href="$structRETROGLU__OBJ.html" title=" " alt="" coords="290,109,416,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,150,356,197,350,197,350,150"/>
+<area shape="rect" id="Node000003" href="$structRETROGLU__VERTEX.html" title=" " alt="" coords="5,5,157,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,35,238,82,311,106,309,111,236,88,120,40"/>
+<area shape="rect" id="Node000004" href="$structRETROGLU__VTEXTURE.html" title=" " alt="" coords="180,5,350,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="287,41,345,107,341,110,283,45"/>
+<area shape="rect" id="Node000005" href="$structRETROGLU__FACE.html" title=" " alt="" coords="374,5,508,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="423,45,365,110,361,107,419,41"/>
+<area shape="rect" id="Node000006" href="$structRETROGLU__MATERIAL.html" title=" " alt="" coords="532,5,699,31"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="573,40,451,87,388,111,386,106,449,83,571,35"/>
+</map>

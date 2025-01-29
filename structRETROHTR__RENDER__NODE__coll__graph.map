@@ -1,0 +1,5 @@
+<map id="RETROHTR_RENDER_NODE" name="RETROHTR_RENDER_NODE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,202,120"/>
+<area shape="rect" id="Node000002" href="$structRETROFLAT__BITMAP.html" title="Platform&#45;specific bitmap structure. retroflat_bitmap_ok() can be used on a pointer to it to determine..." alt="" coords="26,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,47,106,94,101,94,101,47"/>
+</map>

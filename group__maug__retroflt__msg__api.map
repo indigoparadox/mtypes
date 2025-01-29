@@ -1,0 +1,4 @@
+<map id="RetroFlat Message API" name="RetroFlat Message API">
+<area shape="rect" id="Node000002" href="$group__maug__retroflt.html" title="Abstraction layer header for retro systems." alt="" coords="5,5,105,31"/>
+<area shape="rect" id="Node000001" title="These flags can be passed to retroflat_message() to indicate the type of message being conveyed." alt="" coords="153,5,308,31"/>
+</map>

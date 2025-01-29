@@ -1,0 +1,5 @@
+<map id="RetroFlat Colors" name="RetroFlat Colors">
+<area shape="rect" id="Node000002" href="$group__maug__retroflt.html" title="Abstraction layer header for retro systems." alt="" coords="30,5,130,31"/>
+<area shape="rect" id="Node000001" title="Color definitions RetroFlat is aware of, for use with the RetroFlat Drawing API." alt="" coords="203,31,317,56"/>
+<area shape="rect" id="Node000003" href="$group__maug__retroflt__drawing.html" title="Functions for drawing primitives on&#45;screen." alt="" coords="5,55,155,80"/>
+</map>

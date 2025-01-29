@@ -1,0 +1,5 @@
+<map id="RetroFlat Input API" name="RetroFlat Input API">
+<area shape="rect" id="Node000002" href="$group__maug__retroflt.html" title="Abstraction layer header for retro systems." alt="" coords="5,5,105,31"/>
+<area shape="rect" id="Node000001" title="Functions and constants for polling and interpreting user input." alt="" coords="153,5,284,31"/>
+<area shape="rect" id="Node000003" href="$group__maug__retroflt__keydefs.html" title="Keyboard and mouse controls RetroFlat is aware of, for use within the RetroFlat Input API." alt="" coords="332,5,494,31"/>
+</map>

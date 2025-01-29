@@ -1,0 +1,5 @@
+<map id="RETROGLU_SPRITE" name="RETROGLU_SPRITE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,94,157,120"/>
+<area shape="rect" id="Node000002" href="$structRETROFLAT__BITMAP.html" title="Platform&#45;specific bitmap structure. retroflat_bitmap_ok() can be used on a pointer to it to determine..." alt="" coords="5,5,161,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,47,86,94,80,94,80,47"/>
+</map>

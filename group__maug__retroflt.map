@@ -1,0 +1,17 @@
+<map id="RetroFlat API" name="RetroFlat API">
+<area shape="rect" id="Node000001" title="Abstraction layer header for retro systems." alt="" coords="5,327,105,352"/>
+<area shape="rect" id="Node000011" href="$group__maug__retroflt__assets.html" title="Functions and macros for handling graphical asset files." alt="" coords="159,5,302,31"/>
+<area shape="rect" id="Node000010" href="$group__maug__retroflt__bitmap.html" title="Tools for loading bitmaps from disk and drawing them on&#45;screen." alt="" coords="159,55,302,80"/>
+<area shape="rect" id="Node000004" href="$group__maug__retroflt__color.html" title="Color definitions RetroFlat is aware of, for use with the RetroFlat Drawing API." alt="" coords="173,104,288,130"/>
+<area shape="rect" id="Node000003" href="$group__maug__retroflt__compiling.html" title="Makefile examples and compiler considerations for using RetroFlat." alt="" coords="158,153,303,179"/>
+<area shape="rect" id="Node000013" href="$group__maug__retroflt__dir.html" title="Macros and constants for definition cardinal directions in screen and world space." alt="" coords="154,203,307,228"/>
+<area shape="rect" id="Node000006" href="$group__maug__retroflt__drawing.html" title="Functions for drawing primitives on&#45;screen." alt="" coords="156,252,305,278"/>
+<area shape="rect" id="Node000002" href="$group__maug__retroflt__example.html" title="An extremely simple single&#45;file annotated example program written with the RetroFlat API." alt="" coords="167,301,294,327"/>
+<area shape="rect" id="Node000007" href="$group__maug__retroflt__flags.html" title="Flags that may be present on RETROFLAT_STATE::retroflat_flags." alt="" coords="184,351,277,376"/>
+<area shape="rect" id="Node000012" href="$group__maug__retroflt__input.html" title="Functions and constants for polling and interpreting user input." alt="" coords="165,400,296,426"/>
+<area shape="rect" id="Node000008" href="$group__maug__retroflt__msg__api.html" title="These flags can be passed to retroflat_message() to indicate the type of message being conveyed." alt="" coords="153,449,308,475"/>
+<area shape="rect" id="Node000005" href="$group__maug__retroflt__retval.html" title="Standardized return values from RetroFlat API functions." alt="" coords="160,499,300,540"/>
+<area shape="rect" id="Node000009" href="$group__maug__retroflt__vdp.html" title="Video Display Processor tools for modifying display output." alt="" coords="166,564,295,590"/>
+<area shape="rect" id="Node000015" href="$group__maug__retroflt__viewport.html" title="A flexible API to facilitate tile&#45;based views using hardware acceleration where available." alt="" coords="154,613,307,639"/>
+<area shape="rect" id="Node000014" href="$group__maug__retrosnd.html" title="Abstraction layer header for sound on retro systems." alt="" coords="173,663,288,688"/>
+</map>

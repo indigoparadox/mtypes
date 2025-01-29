@@ -1,0 +1,10 @@
+<map id="RETROHTR_RENDER_TREE" name="RETROHTR_RENDER_TREE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,183,282,208"/>
+<area shape="rect" id="Node000002" href="$structRETROHTR__RENDER__NODE.html" title=" " alt="" coords="5,94,202,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,129,177,180,173,184,124,133"/>
+<area shape="rect" id="Node000003" href="$structRETROFLAT__BITMAP.html" title="Platform&#45;specific bitmap structure. retroflat_bitmap_ok() can be used on a pointer to it to determine..." alt="" coords="108,5,264,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,44,117,95,113,92,162,41"/>
+<area shape="rect" id="Node000004" href="$structRETROGUI.html" title=" " alt="" coords="226,94,315,120"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="210,41,260,92,257,96,207,44"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,133,200,184,196,180,246,129"/>
+</map>
